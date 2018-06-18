@@ -1,0 +1,7 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"01_victoria.moc",
+	"textures":[
+		"01_victoria.2048/texture_00.png"
+	]
+}

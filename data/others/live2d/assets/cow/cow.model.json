@@ -1,0 +1,17 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"cow.moc",
+	"textures":[
+		"cow.2048/texture_00.png"
+	],
+	"motions":{
+		"":[
+			{"file":"motion/02_happy.mtn"},
+			{"file":"motion/03_angry.mtn"},
+			{"file":"motion/04_shy.mtn"}
+		],
+		"idle":[
+			{"file":"motion/01_idle.mtn"}
+		]
+	}
+}
